@@ -1,0 +1,9 @@
+{'student_id': 1, 'name': 'Hammad ', 'english': 90, 'maths': 89, 'computer': 98, 'total': 277, 'average': 92.33333333333333, 'grade': 'A+'}
+{'student_id': 2, 'name': 'Burhan', 'english': 98, 'maths': 99, 'computer': 99, 'total': 296, 'average': 98.66666666666667, 'grade': 'A+'}
+{'student_id': 3, 'name': 'Qasim Ahmed', 'english': 99, 'maths': 98, 'computer': 97, 'total': 294, 'average': 98.0, 'grade': 'A+'}
+{'student_id': 4, 'name': 'Kamil', 'english': 89, 'maths': 90, 'computer': 93, 'total': 272, 'average': 90.66666666666667, 'grade': 'A+'}
+{'student_id': 5, 'name': 'Mair Naveed', 'english': 78, 'maths': 89, 'computer': 76, 'total': 243, 'average': 81.0, 'grade': 'A'}
+{'student_id': 6, 'name': 'Bashir', 'english': 78, 'maths': 67, 'computer': 23, 'total': 168, 'average': 56.0, 'grade': 'Fail'}
+{'student_id': 7, 'name': 'Burhan Ali', 'english': 89, 'maths': 90, 'computer': 93, 'total': 272, 'average': 90.66666666666667, 'grade': 'A+'}
+{'student_id': 8, 'name': 'Rashid', 'english': 89, 'maths': 67, 'computer': 56, 'total': 212, 'average': 70.66666666666667, 'grade': 'B'}
+{'student_id': 9, 'name': 'Sarmad', 'english': 90, 'maths': 78, 'computer': 67, 'total': 235, 'average': 78.33333333333333, 'grade': 'B'}
